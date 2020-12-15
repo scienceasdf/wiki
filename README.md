@@ -18,6 +18,12 @@
 
 ##### A modern, lightweight and powerful wiki app built on NodeJS
 
+**TODO:**
+
+* 非管理员也能编辑页面的脚本和样式
+* 创建仅个人可见的私有页面
+* ckeditor支持mathtype插件
+
 </div>
 
 - **[Official Website](https://wiki.js.org/)**
